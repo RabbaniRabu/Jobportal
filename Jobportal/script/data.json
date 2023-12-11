@@ -1,0 +1,30 @@
+{
+    "jobs": [
+        {
+            "title": "Product Engineering",
+            "location": "Singapore",
+            "salary": "$100,000"
+        },
+        {
+            "title": "Senior Manufacturing Engineering",
+            "location": "Singapore",
+            "salary": "$120,000"
+        },
+        {
+            "title": "ENTERPRISE ARCHITECT DEVLOPER",
+            "location": "Dubai, UAE",
+            "salary": "$90,000"
+        },
+        {
+            "title": "ARCHITECT /Interior Designer",
+            "location": "Dubai, UAE",
+            "salary": "$110,000"
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Swedbank Estonia",
+            "salary": "$80,000"
+        }
+        
+    ]
+  }

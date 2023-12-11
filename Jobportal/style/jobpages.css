@@ -1,0 +1,53 @@
+body{
+    background: #ebf1f4;
+}
+input{
+    margin-top: 20px;
+    border-radius: 5px;
+    text-align: center;
+    align-items: center;
+}
+button{
+    border-radius: 5px;
+    color: white;
+    background-color: blue;
+    font-weight: bold;
+    width: 80px;
+    text-align: center;
+    align-items: center;
+}
+.card {
+    margin-top: 30px;
+    margin-bottom: 20px; /* Adjust the value as needed */
+    max-height: 100%;
+    width: 43%;
+}
+.card:hover{
+    border: 2px solid blue;
+}
+.card-title {
+    margin-bottom: 10px;
+}
+
+
+p .rating{
+    color: gray;
+}
+.card-title{
+    text-align: left;
+}
+.card-text {
+    text-align: left;
+    font-size: 15px;
+    color: gray;
+}
+/* Style adjustments for icon alignment */
+.card-text span {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.bi-star {
+    font-size: 1.2rem;
+    margin-right: 3px; /* Adjust the margin as needed */
+}
